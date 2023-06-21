@@ -1,0 +1,6 @@
+flask
+numpy
+io
+base64
+tensoflow
+tensorflow.keras.models
