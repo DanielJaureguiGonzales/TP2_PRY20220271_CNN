@@ -7,7 +7,7 @@ import tensorflow as tf
 from tensorflow.keras.models import load_model
 from tensorflow.keras.optimizers import Adam
 
-BASE_MODEL_ULCERNOSIS = 'ulcernosis-v4.h5'
+BASE_MODEL_ULCERNOSIS = '/home/ubuntu/ulcernosis-v4.h5'
 
 
 
